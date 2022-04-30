@@ -3898,7 +3898,7 @@ li:last-of-type {
     }
 
     .header-screen .header-logo img {
-        width: 180px;
+        /*width: 180px;*/
         height: auto
     }
 
