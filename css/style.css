@@ -2611,6 +2611,11 @@ body {
     line-height: 1.5em
 }
 
+li>strong:hover::after {
+  opacity: 1;
+} 
+
+
 @media screen and (min-width: 480px) {
     body {
         font-size:14px
